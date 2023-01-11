@@ -9,6 +9,7 @@ Dan Singer
 ## History
 
 01/09/22- Created initial setup (folders, added files, etc.)
+01/10/22- Created wireframe, added scaled images, inputted text, styled font
 
 ## Credits
 
