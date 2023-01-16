@@ -6,6 +6,7 @@
     width: 428px;
     border: solid 1px #707070;
     margin: 20px auto;
+    border-radius: 10px;
     background-image: linear-gradient(#FFD344, #FFAA00);
 }
 
